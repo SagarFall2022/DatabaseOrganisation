@@ -30,10 +30,3 @@ To use the Student Registration Database Application, follow these steps:
 
 5. **Launch the Application:** Execute the generated JAR file to launch the Student Registration Database Application. The GUI interface will appear, allowing you to interact with the database and perform various operations on student records.
 
-## Contributing
-
-Contributions to the Student Registration Database Application project are welcome. If you find any bugs, have suggestions for improvements, or want to add new features, please feel free to submit a pull request.
-
-## License
-
-This project is licensed under the [insert license information].
